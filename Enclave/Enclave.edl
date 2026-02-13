@@ -1,0 +1,21 @@
+enclave {
+    from "sgx_tstdc.edl" import *;
+    include "user_types.h" // Import our structs
+
+    trusted {
+        /* * The Core TACL Function:
+         * [in]  = Encrypted data coming in (App -> Enclave)
+         * [out] = Shadow View going out (Enclave -> App)
+         */
+        public void ecall_project_shadow(
+            [in] patient_record_t* secure_record,
+            user_role_t role,
+            [out] shadow_view_t* projected_view
+        );
+    };
+
+    untrusted {
+        /* OCALLs: Functions the Enclave calls outside (e.g. print) */
+        void ocall_print_string([in, string] const char *str);
+    };
+};

@@ -1,0 +1,1600 @@
+--- RUN #1 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.833 us / query    |
+| 2. Throughput      |  113209 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #2 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.006 us / query    |
+| 2. Throughput      |  111039 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #3 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.915 us / query    |
+| 2. Throughput      |  112169 Ops / sec     |
+| 3. System RAM Used |  188136 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #4 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.891 us / query    |
+| 2. Throughput      |  112479 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #5 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.975 us / query    |
+| 2. Throughput      |  111421 Ops / sec     |
+| 3. System RAM Used |  188160 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #6 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.940 us / query    |
+| 2. Throughput      |  111855 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #7 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.812 us / query    |
+| 2. Throughput      |  113475 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #8 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.003 us / query    |
+| 2. Throughput      |  111076 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #9 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.806 us / query    |
+| 2. Throughput      |  113558 Ops / sec     |
+| 3. System RAM Used |  188116 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #10 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.905 us / query    |
+| 2. Throughput      |  112291 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #11 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.909 us / query    |
+| 2. Throughput      |  112243 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #12 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.797 us / query    |
+| 2. Throughput      |  113669 Ops / sec     |
+| 3. System RAM Used |  188136 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #13 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.033 us / query    |
+| 2. Throughput      |  110711 Ops / sec     |
+| 3. System RAM Used |  188156 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #14 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.905 us / query    |
+| 2. Throughput      |  112291 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #15 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.965 us / query    |
+| 2. Throughput      |  111547 Ops / sec     |
+| 3. System RAM Used |  188128 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #16 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.965 us / query    |
+| 2. Throughput      |  111542 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #17 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.077 us / query    |
+| 2. Throughput      |  110171 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #18 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.859 us / query    |
+| 2. Throughput      |  112875 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #19 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.027 us / query    |
+| 2. Throughput      |  110784 Ops / sec     |
+| 3. System RAM Used |  188136 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #20 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.891 us / query    |
+| 2. Throughput      |  112475 Ops / sec     |
+| 3. System RAM Used |  188156 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #21 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.894 us / query    |
+| 2. Throughput      |  112437 Ops / sec     |
+| 3. System RAM Used |  188132 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #22 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.817 us / query    |
+| 2. Throughput      |  113421 Ops / sec     |
+| 3. System RAM Used |  188136 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #23 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.874 us / query    |
+| 2. Throughput      |  112690 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #24 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.858 us / query    |
+| 2. Throughput      |  112891 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #25 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.028 us / query    |
+| 2. Throughput      |  110771 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #26 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.873 us / query    |
+| 2. Throughput      |  112698 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #27 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.839 us / query    |
+| 2. Throughput      |  113130 Ops / sec     |
+| 3. System RAM Used |  188128 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #28 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.890 us / query    |
+| 2. Throughput      |  112489 Ops / sec     |
+| 3. System RAM Used |  188136 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #29 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.939 us / query    |
+| 2. Throughput      |  111869 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #30 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.837 us / query    |
+| 2. Throughput      |  113167 Ops / sec     |
+| 3. System RAM Used |  188128 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #31 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.226 us / query    |
+| 2. Throughput      |  108391 Ops / sec     |
+| 3. System RAM Used |  188148 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #32 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.914 us / query    |
+| 2. Throughput      |  112184 Ops / sec     |
+| 3. System RAM Used |  188156 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #33 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.907 us / query    |
+| 2. Throughput      |  112272 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #34 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.892 us / query    |
+| 2. Throughput      |  112464 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #35 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.036 us / query    |
+| 2. Throughput      |  110669 Ops / sec     |
+| 3. System RAM Used |  188144 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #36 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.034 us / query    |
+| 2. Throughput      |  110692 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #37 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.973 us / query    |
+| 2. Throughput      |  111442 Ops / sec     |
+| 3. System RAM Used |  188160 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #38 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.994 us / query    |
+| 2. Throughput      |  111186 Ops / sec     |
+| 3. System RAM Used |  188156 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #39 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.862 us / query    |
+| 2. Throughput      |  112845 Ops / sec     |
+| 3. System RAM Used |  188116 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #40 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.853 us / query    |
+| 2. Throughput      |  112954 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #41 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.914 us / query    |
+| 2. Throughput      |  112188 Ops / sec     |
+| 3. System RAM Used |  188156 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #42 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.853 us / query    |
+| 2. Throughput      |  112959 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #43 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.843 us / query    |
+| 2. Throughput      |  113082 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #44 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.847 us / query    |
+| 2. Throughput      |  113037 Ops / sec     |
+| 3. System RAM Used |  188148 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #45 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.941 us / query    |
+| 2. Throughput      |  111844 Ops / sec     |
+| 3. System RAM Used |  188136 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #46 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.925 us / query    |
+| 2. Throughput      |  112042 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #47 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.063 us / query    |
+| 2. Throughput      |  110338 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #48 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.998 us / query    |
+| 2. Throughput      |  111134 Ops / sec     |
+| 3. System RAM Used |  188156 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #49 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.887 us / query    |
+| 2. Throughput      |  112523 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #50 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.816 us / query    |
+| 2. Throughput      |  113427 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #51 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.917 us / query    |
+| 2. Throughput      |  112141 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #52 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.973 us / query    |
+| 2. Throughput      |  111442 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #53 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.876 us / query    |
+| 2. Throughput      |  112667 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #54 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.888 us / query    |
+| 2. Throughput      |  112511 Ops / sec     |
+| 3. System RAM Used |  188156 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #55 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.978 us / query    |
+| 2. Throughput      |  111386 Ops / sec     |
+| 3. System RAM Used |  188148 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #56 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.984 us / query    |
+| 2. Throughput      |  111310 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #57 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.829 us / query    |
+| 2. Throughput      |  113268 Ops / sec     |
+| 3. System RAM Used |  188148 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #58 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.922 us / query    |
+| 2. Throughput      |  112084 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #59 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.021 us / query    |
+| 2. Throughput      |  110853 Ops / sec     |
+| 3. System RAM Used |  188144 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #60 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.996 us / query    |
+| 2. Throughput      |  111157 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #61 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.984 us / query    |
+| 2. Throughput      |  111313 Ops / sec     |
+| 3. System RAM Used |  188144 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #62 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.929 us / query    |
+| 2. Throughput      |  111997 Ops / sec     |
+| 3. System RAM Used |  188132 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #63 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.905 us / query    |
+| 2. Throughput      |  112298 Ops / sec     |
+| 3. System RAM Used |  188144 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #64 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.930 us / query    |
+| 2. Throughput      |  111979 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #65 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.832 us / query    |
+| 2. Throughput      |  113231 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #66 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.836 us / query    |
+| 2. Throughput      |  113178 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #67 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.892 us / query    |
+| 2. Throughput      |  112455 Ops / sec     |
+| 3. System RAM Used |  188128 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #68 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.890 us / query    |
+| 2. Throughput      |  112481 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #69 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.001 us / query    |
+| 2. Throughput      |  111096 Ops / sec     |
+| 3. System RAM Used |  188156 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #70 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.863 us / query    |
+| 2. Throughput      |  112831 Ops / sec     |
+| 3. System RAM Used |  188132 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #71 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.794 us / query    |
+| 2. Throughput      |  113718 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #72 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.894 us / query    |
+| 2. Throughput      |  112431 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #73 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.818 us / query    |
+| 2. Throughput      |  113402 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #74 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.786 us / query    |
+| 2. Throughput      |  113819 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #75 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.948 us / query    |
+| 2. Throughput      |  111751 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #76 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.841 us / query    |
+| 2. Throughput      |  113105 Ops / sec     |
+| 3. System RAM Used |  188144 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #77 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.905 us / query    |
+| 2. Throughput      |  112300 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #78 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.932 us / query    |
+| 2. Throughput      |  111963 Ops / sec     |
+| 3. System RAM Used |  188116 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #79 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.908 us / query    |
+| 2. Throughput      |  112265 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #80 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.861 us / query    |
+| 2. Throughput      |  112859 Ops / sec     |
+| 3. System RAM Used |  188128 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #81 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.854 us / query    |
+| 2. Throughput      |  112947 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #82 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.920 us / query    |
+| 2. Throughput      |  112110 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #83 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.927 us / query    |
+| 2. Throughput      |  112013 Ops / sec     |
+| 3. System RAM Used |  188148 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #84 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.942 us / query    |
+| 2. Throughput      |  111826 Ops / sec     |
+| 3. System RAM Used |  188148 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #85 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.215 us / query    |
+| 2. Throughput      |  108520 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #86 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.145 us / query    |
+| 2. Throughput      |  109347 Ops / sec     |
+| 3. System RAM Used |  188160 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #87 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.979 us / query    |
+| 2. Throughput      |  111375 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #88 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.025 us / query    |
+| 2. Throughput      |  110808 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #89 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.932 us / query    |
+| 2. Throughput      |  111961 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #90 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.970 us / query    |
+| 2. Throughput      |  111485 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #91 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.018 us / query    |
+| 2. Throughput      |  110889 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #92 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.903 us / query    |
+| 2. Throughput      |  112321 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #93 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.842 us / query    |
+| 2. Throughput      |  113100 Ops / sec     |
+| 3. System RAM Used |  188136 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #94 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   9.022 us / query    |
+| 2. Throughput      |  110846 Ops / sec     |
+| 3. System RAM Used |  188136 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #95 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.916 us / query    |
+| 2. Throughput      |  112153 Ops / sec     |
+| 3. System RAM Used |  188140 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #96 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.914 us / query    |
+| 2. Throughput      |  112180 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #97 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.966 us / query    |
+| 2. Throughput      |  111529 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #98 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.826 us / query    |
+| 2. Throughput      |  113306 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #99 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.986 us / query    |
+| 2. Throughput      |  111287 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
+--- RUN #100 ---
+====================================================
+[INIT] Launching SGX Enclave (TACL Engine)...
+[SYSTEM] Generating 1000000 records in Host RAM... Done.
+[BENCHMARK] Starting Stress Test...
+   -> Records:     1,000,000
+   -> Iterations:  1,000,000 (Random Access)
+
+========== RDS_SGX SCALE REPORT (1M/1M) ==========
+| Metric             | Value                   |
+|--------------------|-------------------------|
+| 1. Avg Latency     |   8.987 us / query    |
+| 2. Throughput      |  111278 Ops / sec     |
+| 3. System RAM Used |  188124 KB              |
+| 4. Security Cover  |   64.58 %               |
+====================================================
