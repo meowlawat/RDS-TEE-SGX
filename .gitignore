@@ -1,0 +1,21 @@
+# Prerequisites
+*.d
+*.o
+*.a
+*.so
+*.signed.so
+
+# Executables
+app
+bench_app
+
+# SGX Generated Files (Don't track these, they auto-generate)
+App/Enclave_u.*
+Enclave/Enclave_t.*
+
+# Keys (NEVER UPLOAD PRIVATE KEYS)
+*.pem
+
+# Editor Junk
+.vscode/
+*.swp
